@@ -1,0 +1,5 @@
+@import '~@angular/material/prebuilt-themes/purple-green.css';
+body{
+    background: rgb(28,27,47);
+    background: linear-gradient(90deg, rgba(28,27,47,1) 21%, rgba(22,22,46,1) 100%, rgba(149,149,149,1) 100%);
+}
